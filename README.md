@@ -1,4 +1,4 @@
 # #NICAR13 takeaways
 
-A presentation for the Star Tribune web design team.
+A [presentation](http://www.kevinschaul.com/documents/nicar13-takeaways/) for the Star Tribune web design team.
 
